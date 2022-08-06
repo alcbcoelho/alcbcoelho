@@ -10,6 +10,11 @@ Just a developer looking to expand my coding knowledge - both front and back-end
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="Sass/SCSS"></a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"></a>
 
+### Learning:
+
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"></a>
+          
+
 <!---
 - 👋 Hi, I’m @alcbcoelho
 - 👀 I’m interested in ...
