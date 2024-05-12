@@ -1,6 +1,6 @@
 ### Hi, I'm André.
 
-Just a developer looking to expand my coding knowledge - both front and back-end wise. You can reach me at alcbcoelho@gmail.com.
+Just a developer looking to expand my coding knowledge - both front and back-end-wise. You can reach me at andrecoelhodev@gmail.com.
 
 ### Familiar with:
 
