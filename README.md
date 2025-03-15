@@ -14,7 +14,6 @@ Just a developer looking to expand my coding knowledge - both front and back-end
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" title="jQuery" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"></a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"></a>
 <!---
 - 👋 Hi, I’m @alcbcoelho
 - 👀 I’m interested in ...
